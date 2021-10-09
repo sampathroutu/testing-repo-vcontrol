@@ -1,5 +1,6 @@
 //Change one
 //sampath
+//change
 #include <stdio.h>
 #define SIZE 5
 
